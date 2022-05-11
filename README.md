@@ -1,3 +1,6 @@
 # chami
 this is first repository
-this is my first commit.
+ branch-1
+this is my first commit
+
+
